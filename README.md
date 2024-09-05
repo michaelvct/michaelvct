@@ -1,6 +1,6 @@
 
 👋 Hi, I’m @michaelvct
-👀 I’m interested in **economic research, data analysis, and quantitative finance**.  
+👀 I’m interested in **economic research, data analysis, and quantitative analysis**.  
 🌱 I’m currently learning **advanced econometrics, programming in Python/Rstudio/Stata, and financial modeling**.  
 💞️ I’m looking to collaborate on **research projects, data-driven analyses, and economic forecasting**.  
 
